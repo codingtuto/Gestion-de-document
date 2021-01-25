@@ -2,9 +2,11 @@
 
 
 #Document Management System 
+
 Document Management System is a system software responsible for the reservation of old and new files. The main objective of this system is to be the back up files in case that the hard copy cannot retrieve, lost and unidentified due to fortuitous event. This will secure, manage and restore the important files and documents.
 
 #What is the used of admin part?
+
 -The login part has its own section for admin that only he has permission to do so.(Login)
 -In the part of the home you will immediately see the files in the table and you can download it if you want(Home)
 -Only admin can add folder to all members.
